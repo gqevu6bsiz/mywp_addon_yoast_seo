@@ -1,0 +1,1 @@
+# mywp_addon_yoast_seo
